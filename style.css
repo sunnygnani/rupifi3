@@ -94,6 +94,10 @@
 .custom-toggler.navbar-toggler {
     border-color: lightgreen;
 }
+.navbar{
+  padding-left: 0px;
+  padding-right: 0px;
+}
 
 .nav-pills>li.active>a, .nav-pills>li.active>a:hover, .nav-pills>li.active>a:focus{
 
